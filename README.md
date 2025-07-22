@@ -1,4 +1,6 @@
 ## Corretto 8
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fcorretto-8.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fcorretto-8?ref=badge_shield)
+
 
 Amazon Corretto is a no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK). Corretto is used internally at Amazon for production services. With Corretto, you can develop and run Java applications on operating systems such as Amazon Linux 2, Windows, and macOS.
 
@@ -9,6 +11,9 @@ Documentation is available at [https://docs.aws.amazon.com/corretto](https://doc
 ### Licenses and Trademarks
 
 Please read these files: "LICENSE", "THIRD_PARTY_README", "ASSEMBLY_EXCEPTION", "TRADEMARKS.md".
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fcorretto-8.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fcorretto-8?ref=badge_large)
 
 ### Branches
 
